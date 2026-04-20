@@ -21,5 +21,5 @@ public class AiController {
                 .call()
                 .content(); // 返回 AI 生成的文本内容
     }
-    
+
 }
